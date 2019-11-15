@@ -29,7 +29,7 @@ export PW="YOUR_DB_PASSWORD"
 
 export CONNECTION_STR="jdbc:mysql://localhost:3306/startcode"
 
-- Save file: cntl + x og enter
+- Save file: "cntrl + x" and "Enter"
 - Restart tomcat "sudo systemctl restart tomcat"
 
 - you can run the following with your own user / pw info: 
